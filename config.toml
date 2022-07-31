@@ -1,16 +1,20 @@
-# The URL the site will be built for
 base_url = "https://ericscouten.studio"
 
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+title = "Eric Scouten :: Studio"
+description = "Occasional thoughts on photography."
+default_language = "en"
 
-# Whether to build a search index to be used later on by a JavaScript library
+theme = "zola-es-theme"
+
+compile_sass = true
 build_search_index = true
 
+generate_feed = true
+feed_filename = "rss.xml"
+
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
+smart_punctuation = true
 
 [extra]
-# Put all your custom variables here
+es_site = "studio"
