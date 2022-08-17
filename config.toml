@@ -17,4 +17,5 @@ highlight_code = false
 smart_punctuation = true
 
 [extra]
+endmark = true
 es_site = "studio"
