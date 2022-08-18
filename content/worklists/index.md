@@ -1,9 +1,6 @@
 +++
 title = "Lightroom Technique: Smart Collections and Worklists"
 date = 2008-08-04
-updated = 2022-08-17
-#image:
-#  thumb: /assets/images/posts/articles/2008-08-04-lr-technique-smart-collections-and-worklists/#collections-panel.png
 
 [extra]
 first_published_on = "ericscouten.com"
