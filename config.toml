@@ -19,3 +19,4 @@ smart_punctuation = true
 [extra]
 endmark = true
 es_site = "studio"
+article_type = "thoughts on photography"
