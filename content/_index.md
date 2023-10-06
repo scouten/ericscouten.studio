@@ -4,8 +4,6 @@ sort_by = "date"
 template = "section.html"
 +++
 
-**Hi, I’m Eric.** I'm a photographer and software developer living near Seattle, Washington.
-
 On this site, I talk occasionally about the technology, tools, and workflow behind my photography. My actual photography is on display at a few other sites I run:
 
 * **[146 Parks](https://146parks.blog)**: My effort to visit every state park in Washington state.
