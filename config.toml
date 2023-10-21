@@ -24,3 +24,5 @@ endmark = true
 es_site = "studio"
 article_type = "thoughts on photography"
 fathom_site_id = "LOTHNSVD"
+section_reverse_default = true
+comments_enabled_default = false
