@@ -4,6 +4,7 @@ date = 2009-02-04T23:41:14-08:00
 
 [extra]
 cover = "es-1288-067"
+cover_cdn_key = "img/v1/2008/04/es-1288-067"
 first_published_on = "ericscouten.com"
 +++
 
@@ -11,7 +12,7 @@ Do too many keywords in your Lightroom catalog have you spinning round and round
 
 <!-- more -->
 
-{{ es_image(id="es-1288-067" title="Spin Me Around" caption="Keukenhof Gardens, Lisse, The Netherlands, 2008" inventory=false) }}
+{{ es_cdn_image(id = "es-1288-067", cdn_version = "v1", cdn_key = "img/v1/2008/04/es-1288-067" title="Spin Me Around" caption="Keukenhof Gardens, Lisse, The Netherlands, 2008" inventory=false) }}
 
 Here are a couple of simple tricks I use to keep me organized with over 10,000 keywords in my catalog.
 
