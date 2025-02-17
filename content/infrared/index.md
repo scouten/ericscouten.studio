@@ -5,6 +5,7 @@ date = 2014-12-07T17:03:21-08:00
 [extra]
 first_published_on = "ericscouten.com"
 cover = "es-2245-018a"
+cover_cdn_key = "img/v1/2012/12/es-2245-018a"
 +++
 
 If you've been following my [photoblog](https://photoblog.ericscouten.com) of late, you know that I've been doing a lot of experimenting with infrared photography. I've finally settled on a camera that I really like and in this article, I'll share some of the things I've learned along the way.
@@ -15,15 +16,15 @@ If you've been following my [photoblog](https://photoblog.ericscouten.com) of la
 
 Funny you should ask. Have a look at these images I've created over the past couple of years:
 
-{{ es_image(id = "es-2681-023", title = "Walk Not Alone", caption = "Reher, Germany, 2014") }}
+{{ es_cdn_image(id = "es-2681-023", cdn_version = "v1", cdn_key = "img/v1/2014/09/es-2681-023", title = "Walk Not Alone", caption = "Reher, Germany, 2014") }}
 
-{{ es_image(id = "es-2276-051", title = "Let's Drive Like We're Young Again", caption = "Colonia del Sacramento, Uruguay, 2012") }}
+{{ es_cdn_image(id = "es-2276-051", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2276-051", title = "Let's Drive Like We're Young Again", caption = "Colonia del Sacramento, Uruguay, 2012") }}
 
-{{ es_image(id = "es-2239-012", title = "The Fire of Sadness", caption = "Salvador, Bahía, Brazil, 2012") }}
+{{ es_cdn_image(id = "es-2239-012", cdn_version = "v1", cdn_key = "img/v1/2012/11/es-2239-012", title = "The Fire of Sadness", caption = "Salvador, Bahía, Brazil, 2012") }}
 
-{{ es_image(id = "es-2245-018a", title = "Fireworks at Noon", caption = "Praia do Forte, Bahía, Brazil, 2012") }}
+{{ es_cdn_image(id = "es-2245-018a", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2245-018a", title = "Fireworks at Noon", caption = "Praia do Forte, Bahía, Brazil, 2012") }}
 
-{{ es_image(id = "es-2684-010", title = "We've Only Just Begun", caption = "Telschow-Weitgendorf, Germany, 2014") }}
+{{ es_cdn_image(id = "es-2684-010", cdn_version = "v1", cdn_key = "img/v1/2014/09/es-2684-010", title = "We've Only Just Begun", caption = "Telschow-Weitgendorf, Germany, 2014") }}
 
 I enjoy IR because it lets me create contrasts in scenes that wouldn't otherwise have them.
 
@@ -73,17 +74,17 @@ As a mirrorless skeptic, I have to say I've been impressed with the quality of t
 
 Here are some samples from this trip:
 
-{{ es_image(id = "es-2722-010", title = "Neither Luminary", caption = "Salome, Arizona") }}
+{{ es_cdn_image(id = "es-2722-010", cdn_version = "v1", cdn_key = "img/v1/2014/11/es-2722-010", title = "Neither Luminary", caption = "Salome, Arizona") }}
 
-{{ es_image(id = "es-2718-031", title = "I Gotta Be All Alone", caption = "Susanville, California") }}
+{{ es_cdn_image(id = "es-2718-031", cdn_version = "v1", cdn_key = "img/v1/2014/11/es-2718-031", title = "I Gotta Be All Alone", caption = "Susanville, California") }}
 
-{{ es_image(id = "es-2722-004", title = "Doesn't Have to Be This Way", caption = "Vidal, California") }}
+{{ es_cdn_image(id = "es-2722-004", cdn_version = "v1", cdn_key = "img/v1/2014/11/es-2722-004", title = "Doesn't Have to Be This Way", caption = "Vidal, California") }}
 
-{{ es_image(id = "es-2723-022", title = "No Birds Today", caption = "Tucson, Arizona") }}
+{{ es_cdn_image(id = "es-2723-022", cdn_version = "v1", cdn_key = "img/v1/2014/11/es-2723-022", title = "No Birds Today", caption = "Tucson, Arizona") }}
 
-{{ es_image(id = "es-2723-046", title = "Near to You", caption = "Tucson, Arizona") }}
+{{ es_cdn_image(id = "es-2723-046", cdn_version = "v1", cdn_key = "img/v1/2014/11/es-2723-046", title = "Near to You", caption = "Tucson, Arizona") }}
 
-{{ es_image(id = "es-2730-075", title = "This Is How It Goes", caption = "Wasco, California") }}
+{{ es_cdn_image(id = "es-2730-075", cdn_version = "v1", cdn_key = "img/v1/2014/11/es-2730-075", title = "This Is How It Goes", caption = "Wasco, California") }}
 
 I liked the camera enough that I bought it from LensRentals. (As of this writing, they have a new one available for rental again.)
 
