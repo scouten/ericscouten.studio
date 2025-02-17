@@ -4,6 +4,7 @@ date = 2012-12-01T21:47:44-02:00
 
 [extra]
 cover = "es-2232-001a"
+cover_cdn_key = "img/v1/2012/11/es-2232-001a"
 first_published_on = "ericscouten.com"
 +++
 
@@ -41,7 +42,7 @@ How minimal am I being? At the end of the fifth day of my trip, I have:
 
 I've probably outright discarded another 50 or so photos (I don't keep count) for lacking technical or artistic merit (i.e. badly out of focus or badly composed).
 
-{{ es_image(id="es-2232-001a", title = "Room with a View", caption = "Hotel Santa Teresa, Rio de Janeiro, Brazil", inventory=false) }}
+{{ es_cdn_image(id = "es-2232-001a", cdn_version = "v1", cdn_key = "img/v1/2012/11/es-2232-001a", title = "Room with a View", caption = "Hotel Santa Teresa, Rio de Janeiro, Brazil", inventory=false) }}
 
 And that's it.
 
