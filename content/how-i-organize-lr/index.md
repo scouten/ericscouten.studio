@@ -74,7 +74,7 @@ At this stage, I’m not making much of an artistic judgement about the photos, 
 
 When I have a bit more time (sometimes the same day, sometimes many days later), I’ll organize them into folders that help me find them later. Since a lot of my photography happens when I travel, I often use the trip as an organizing metaphor. For those that are taken around home, I organize a bit more by subject. I encourage you to think about how and when you shoot; there may be be more important dividing lines for you than the ones I’m citing. Whatever the dividing line, I think it helps if it satisfies the following criteria:
 
-{{ es_image(id = "es-0964-038n" title = "Friendly Pelican?" caption = "Mykonos, Greece, 2005") }}
+{{ es_cdn_image(id = "es-0964-038n", cdn_version = "v1", cdn_key = "img/v1/2005/09/es-0964-038n" title = "Friendly Pelican?" caption = "Mykonos, Greece, 2005") }}
 
 * **It isn’t likely to change over time.** This is why I avoid sorting by keywords. A photo might fit into several categories. Consider the photo above: Would you put it in a birds folder, a street scenes folder, a people folder, a Greece folder, a Mykonos folder, or … ? You get the point. There are many concepts being shown in the photo and they are at odds with each other. Where folders are concerned, you have to make a single choice.
 * **You shouldn’t have to make a photo-by-photo decision.** That’s too time-consuming. If I’m traveling, I can often select all photos from a single date folder and say these are all in the \_\_\_ trip. Taking the same photo again, I might decide to place it in a birds folder, but then the next photo could be about something completely different.
